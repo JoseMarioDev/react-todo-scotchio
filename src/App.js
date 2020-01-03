@@ -12,7 +12,7 @@ function App() {
 
   function TodoForm({ addTodo }) {
     const apple = 'apple';
-    const tonka = 'truck';
+    const truck = 'tonka';
 
     const [value, setValue] = useState('');
 
